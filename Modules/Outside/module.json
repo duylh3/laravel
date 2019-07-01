@@ -1,0 +1,16 @@
+{
+    "name": "Outside",
+    "alias": "outside",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Outside\\Providers\\OutsideServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
